@@ -23,15 +23,15 @@
   /* These classes are named after the last two digits 
      of their original (light theme) hex codes */
   .c00, .c00 a:link { color:#ffffff; }                 /* default comment text */
-  .c5a, .c5a a:link, .c5a a:visited { color:#dddddd; } /* slightly dimmed downvoted comment text */
-  .c73, .c73 a:link, .c73 a:visited { color:#cecece; } /* even dimmer comment text */
-  .c82, .c82 a:link, .c82 a:visited { color:#bebebe; } /* and so on... */
-  .c88, .c88 a:link, .c88 a:visited { color:#aeaeae; }
-  .c9c, .c9c a:link, .c9c a:visited { color:#9c9c9c; }
-  .cae, .cae a:link, .cae a:visited { color:#888888; }
-  .cbe, .cbe a:link, .cbe a:visited { color:#828282; }
-  .cce, .cce a:link, .cce a:visited { color:#737373; }
-  .cdd, .cdd a:link, .cdd a:visited { color:#5a5a5a; }
+  .c5a, .c5a a:link, .c5a a:visited { color:#bfbfbf; } /* slightly dimmed downvoted comment text */
+  .c73, .c73 a:link, .c73 a:visited { color:#adadad; } /* even dimmer comment text */
+  .c82, .c82 a:link, .c82 a:visited { color:#9c9c9c; } /* and so on... */
+  .c88, .c88 a:link, .c88 a:visited { color:#878787; }
+  .c9c, .c9c a:link, .c9c a:visited { color:#828282; }
+  .cae, .cae a:link, .cae a:visited { color:#737373; }
+  .cbe, .cbe a:link, .cbe a:visited { color:#595959; }
+  .cce, .cce a:link, .cce a:visited { color:#4a4a4a; }
+  .cdd, .cdd a:link, .cdd a:visited { color:#3d3d3d; }
   .ca2 { color:#e12828; }
 
   .pagetop a { color:#000000; }
