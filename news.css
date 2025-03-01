@@ -1,0 +1,47 @@
+@media (prefers-color-scheme: dark) {
+    
+  html { background: #222222; }
+  #hnmain { background: #282828; }
+  
+  body  { color:#828282; }
+  td    { color:#828282; }
+
+  .admin td   { color:#ffffff; }
+  .subtext td { color:#828282; }
+
+  a:link    { color:#ffffff; }
+  a:visited { color:#828282; }
+
+  .default { color:#828282; }
+  .admin   { color:#ffffff; }
+  .title   { color:#828282; }
+  .subtext { color:#828282; }
+  .yclinks { color:#828282; }
+  .pagetop { color:#222222; }
+  .comhead { color:#828282; }
+
+  /* These classes are named after the last two digits 
+     of their original (light theme) hex codes */
+  .c00, .c00 a:link { color:#ffffff; }                 /* default comment text */
+  .c5a, .c5a a:link, .c5a a:visited { color:#dddddd; } /* slightly dimmed downvoted comment text */
+  .c73, .c73 a:link, .c73 a:visited { color:#cecece; } /* even dimmer comment text */
+  .c82, .c82 a:link, .c82 a:visited { color:#bebebe; } /* and so on... */
+  .c88, .c88 a:link, .c88 a:visited { color:#aeaeae; }
+  .c9c, .c9c a:link, .c9c a:visited { color:#9c9c9c; }
+  .cae, .cae a:link, .cae a:visited { color:#888888; }
+  .cbe, .cbe a:link, .cbe a:visited { color:#828282; }
+  .cce, .cce a:link, .cce a:visited { color:#737373; }
+  .cdd, .cdd a:link, .cdd a:visited { color:#5a5a5a; }
+  .ca2 { color:#e12828; }
+
+  .pagetop a { color:#000000; }
+  .pagetop a:visited { color:#000000;}
+  .topsel a:link, .topsel a:visited { color:#000000; }
+
+  .subtext a:link, .subtext a:visited { color:#828282; }
+
+  .comhead a:link, .subtext a:visited { color:#828282; }
+
+  .hnmore a:link, a:visited { color:#828282; }
+  
+}
